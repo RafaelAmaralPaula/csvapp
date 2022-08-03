@@ -15,7 +15,7 @@
  
 # Como testar
 
-- Precisar JDK e do yarn instalado
+- Precisa ter instalado o **JDK** e o **yarn**
 
 - Fazer import do backend em uma determinada ide
 
