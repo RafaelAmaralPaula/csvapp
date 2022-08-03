@@ -25,6 +25,8 @@
 
 - Necessário ter banco MongoDb rodando localmente
 
+- E também criar uma banco de dados chamado **csvappdatabase**
+
 - Depois levantar aplicação frontend
    - Basta abrir terminal no diretório frontend e executar seguinte comando
   ```
@@ -39,12 +41,12 @@
 # Tecnologias utilizadas 
  
 ## Back-end 
-- Java
+- Java 17
 - Maven 
 - Spring Data JPA
 - MongoDB
 - Spring MVC
-- Spring Boot
+- Spring Boot 
 
 ## Front-end
 - React
